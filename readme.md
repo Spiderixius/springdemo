@@ -54,7 +54,6 @@ Nothing to air today.
 
 Sunday
 Nothing to air today.
-
 ```
 
 # Requirements for usage:
