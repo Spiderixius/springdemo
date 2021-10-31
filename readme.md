@@ -34,6 +34,8 @@ Dybvvvvvad 11:30 - 12:00
 ```
 
 ## Input
+The data has to specify each day of the week. A movie is defined by a `title`, a `state` that informs wether the movie is starting or ending and finally a `time` defined in seconds.
+
 
 ```json
 {
@@ -57,10 +59,9 @@ Dybvvvvvad 11:30 - 12:00
  "sunday": []
 }
 ```
-The data has to specify each day of the week. A movie is defined by a `title`, a `state` that informs wether the movie is starting or ending and finally a `time` defined in seconds.
-
 
 ## Output
+The expected output will be which movie is running on which day and the duration.
 ```
 Monday
 Movie 06:00 - 10:16
