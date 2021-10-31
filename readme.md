@@ -93,3 +93,4 @@ Nothing to air today.
 # Resources used:
 - [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/)
 - [Spring Boot - RESTful Web Service with POST Request in JSON Example](https://www.youtube.com/watch?v=RydAmQvcqL8)
+- ![image](https://user-images.githubusercontent.com/10165995/139597034-a1d7f782-5d2a-40fc-a810-c589aa1e8ddf.png)
