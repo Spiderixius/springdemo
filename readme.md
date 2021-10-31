@@ -84,6 +84,17 @@ Nothing to air today.
 Sunday
 Nothing to air today.
 ```
+# Usage
+- Open the project in IntelliJ and run it.
+ - It will be hosted at http://localhost:8080/
+ - If port 8080 is used by another localhost, you can specify a different port at `rest-service/src/main/resources/application.properties` by adding `server.port = 8081`
+- Conduct a POST request to http://localhost:8080/epg with the appropriate JSON data
+   - In Postman:
+     - Change request type to `POST`
+     - In the request url insert `http://localhost:8080/epg`
+     - In the `Body` insert the JSON
+     - Click `raw` & select `JSON` from dropdown.
+     - Now you are ready to send the request by pressing `Send`
 
 # Requirements for usage:
 - [JDK 11 +](https://www.oracle.com/java/technologies/downloads/)
