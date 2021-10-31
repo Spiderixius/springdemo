@@ -3,7 +3,6 @@ package com.epg.restservice.tools;
 import com.epg.restservice.models.DailyTvProgram;
 import com.epg.restservice.models.Epg;
 import com.epg.restservice.models.TvProgram;
-import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 

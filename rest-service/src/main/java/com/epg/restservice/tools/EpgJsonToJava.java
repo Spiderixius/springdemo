@@ -59,7 +59,7 @@ public class EpgJsonToJava {
                 }
             }
 
-            for(Map.Entry<Integer, String> entry : noProgramDays.entrySet()) {
+            for (Map.Entry<Integer, String> entry : noProgramDays.entrySet()) {
                 if (entry.getKey() == i + 1) {
                     lineBuilder.append("\n\n").append(entry.getValue()).append("\n").append("Nothing to air today.");
                 }
