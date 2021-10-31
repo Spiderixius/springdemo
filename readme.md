@@ -2,6 +2,9 @@
 This repository contains a simple POST REST API that accepts JSON and outputs to a more human friendly readable output.
 A movie is defined by a begin and end states. It is assumed that only one movie is present in a time slot (duration between begin and end).
 
+# Demo
+![](demo.gif)
+
 ## Input
 
 ```json
