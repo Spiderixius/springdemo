@@ -5,6 +5,34 @@ A movie is defined by a begin and end states. It is assumed that only one movie 
 # Demo
 ![](demo.gif)
 
+## Demo Output
+```
+Monday
+Nyhederne 06:00 - 10:00
+Dybvaaaaad 10:00 - 10:35
+
+Tuesday
+Nothing to air today.
+
+Wednesday
+Nyhederne 06:00 - 12:00, 21:00 - 21:30
+Fodbold 14:00 - 15:30
+
+Thursday
+ESL 12:00 - 13:00
+ESLPro 23:00 - 01:00
+
+Friday
+Nothing to air today.
+
+Saturday
+Comedy 14:30 - 16:30
+Nybyggerne 22:40 - 01:30
+
+Sunday
+Dybvvvvvad 11:30 - 12:00
+```
+
 ## Input
 
 ```json
